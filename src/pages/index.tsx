@@ -37,7 +37,7 @@ export default function Page() {
           buttonURL="https://www.omfgdogs.com/#"
           button2Text="Definitely Dont Press this one"
           button2URL="http://freddurst.com/"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/woahhh.gif"
           id={styles.home_hero}>
           <p>
             WP&nbsp;Engine’s Headless WordPress Framework includes this example
