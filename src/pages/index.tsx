@@ -32,11 +32,11 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
-          buttonText="Developer Docs"
-          buttonURL="https://faustjs.org"
-          button2Text="Headless on GitHub"
-          button2URL="https://github.com/wpengine/faustjs"
+          title="You Are In Training Right Now"
+          buttonText="Don't Press!"
+          buttonURL="https://www.omfgdogs.com/#"
+          button2Text="Definitely Dont Press this one"
+          button2URL="http://freddurst.com/"
           bgImage="/images/headless_hero_background.jpg"
           id={styles.home_hero}>
           <p>
